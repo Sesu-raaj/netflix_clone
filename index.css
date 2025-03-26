@@ -1,0 +1,104 @@
+.main-content{
+    background-image: url("header-image.png");
+    height: 100vh;
+    width: 100%;
+    font-family: "sans serif";
+    background-blend-mode: darken;
+}
+.headercontent{
+    display: flex;
+   align-items: center;
+    justify-content: space-between;
+}
+.lang{
+    margin-top: 40px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    
+}
+.logo{
+    margin-top: 40px;
+    height: 50px;
+    width: 150px;
+    margin-left: 90px;
+}
+.btn{
+    margin-top: 40px;
+    background-color: red;
+    color: white;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 50px;
+}
+.center-content{
+    margin-top: 100px;
+ text-align: center;
+ color: white;
+ 
+
+}
+.input{
+    background-color: transparent;
+    height: 50px;
+    width: 400px;
+    color: white;
+    border-color: white;
+}
+.btns{
+    background-color: red;
+    color: white;
+    height: 60px;
+    width: 150px;
+    text-align: center;
+    border-width: 0px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.hed{
+    font-size: 65px;
+    font-weight: bold;
+}
+.hedf{
+    font-size: 35px;
+    font-weight: bold;
+}
+.para{
+    font-size: 20px;
+}
+.features{
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.image{
+    height: 200px;
+    width: 32opx;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+.row{
+    margin-top: 200px;
+}
+.hedad{
+    font-size: 50px;
+    margin-left: 40px;
+}
+.par{
+    font-size: 25px;
+    margin-left: 40px;
+}
